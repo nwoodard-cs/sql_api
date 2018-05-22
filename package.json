@@ -1,0 +1,14 @@
+{
+  "name": "sql_api",
+  "version": "1.0.0",
+  "description": "Serverside API scaffolding to allow HTTPS style requests to be made by frontend projects with TDS drivers and mssql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicole Woodard",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint": "4.19.1"
+  }
+}
